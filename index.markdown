@@ -4,21 +4,6 @@ title: Welcome!
 date: '2018-09-18T09:15:25+00:00'
 author: speechful_yp8qt3
 layout: page
-guid: 'http://speechful.joereddington.com/?page_id=2'
-gravit_facebook:
-    - ''
-gravit_twitter:
-    - ''
-gravit_google-plus:
-    - ''
-gravit_linkedin:
-    - ''
-gravit_youtube:
-    - ''
-gravit_instagram:
-    - ''
-gravit_pinterest:
-    - ''
 ---
 
 From the intro to our first podcast:
@@ -43,4 +28,26 @@ Rachel Berenson Perkins, Cheer/Paracheer coach, TV lover, and Person In Charge O
 
 
 
-...and you can find all the episodes [here](posts.html)
+...and you can find the audio for all the episodes here: 
+
+
+- [S01E05 – H-A-L– HALLOWEEN](episodes/SpeechfulS01E05.mp3)
+  October 19, 2018
+  Today we are talking about S01E05 – [H-A-L– HALLOWEEN](https://www.imdb.com/title/tt5952256/?ref_=ttep_ep5).
+
+- [S01E04 – I-N-S–INSPIRATIONS](episodes/SpeechfulS01E04.mp3)
+  October 12, 2018
+  Today we are talking about Speechless S01E04 – [I-N-S–INSPIRATIONS](https://www.imdb.com/title/tt5997308/?ref_=ttep_ep4).
+
+- [S01E03 – B-O-N–BONFIRE](episodes/SpeechfulS01E03.mp3)
+  October 5, 2018
+  Today we are talking about Speechless S01E02: [B-O-N–BONFIRE](https://www.imdb.com/title/tt5952254/?ref_=ttep_ep3).
+
+- [S01E02 – N-E-NEW A-I-AIDE](episodes/SpeechfulS01E02.mp3)
+  September 28, 2018
+  Today we are talking about Speechless S01E02: [N-E-NEW A-I-AIDE](https://www.imdb.com/title/tt5940396/?ref_=ttep_ep2).
+
+- [S01E01: Pilot](episodes/SpeechfulS01E01.mp3)
+  September 18, 2018
+  Our first episode!
+

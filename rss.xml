@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>Speechful: a Speechless reaction podcast</title>
+	<atom:link href="http://joereddington.github.io/speechful//feed/podcast" rel="self" type="application/rss+xml" />
+	<link>http://joereddington.github.io/speechful/</link>
+	<description>A Speechless reaction podcast</description>
+	<lastBuildDate>Fri, 19 Oct 2018 10:32:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=6.2.2</generator>
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<itunes:summary>This is an episode by episode review of the ABC show Speechless, starring Minnie Driver and Micah Fowler. We’re talking a little bit about the episode, and we’re also using it as a jumping off point to talk about a range of related issues.&lt;br /&gt;
+&lt;br /&gt;
+Why should you listen to us? Joe&#039;s got an interesting viewpoint. He was an awkward nerdy child who had a brother who used a voice system very similar to JJ’s. In fact, he grew up as Ray.&lt;br /&gt;
+Quite a lot of this podcast will consist of Joe either applauding or complaining about the situations that come up and how much they resonate with someone who grew up in a similar situation.&lt;br /&gt;
+&lt;br /&gt;</itunes:summary>
+	<itunes:author>Speechful: a Speechless reaction podcast</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="http://joereddington.github.io/speechful//wp-content/uploads/powerpress/DSC_7051.JPG" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>Speechful: a Speechless reaction podcast</itunes:name>
+	</itunes:owner>
+	<itunes:subtitle>We watch the ABC show Speechless and talk about it.</itunes:subtitle>
+	<image>
+		<title>Speechful: a Speechless reaction podcast</title>
+		<url>http://joereddington.github.io/speechful/assets/logo.png</url>
+		<link>http://joereddington.github.io/speechful/</link>
+	</image>
+	<itunes:category text="TV &amp; Film" />
+	<googleplay:category text="TV &amp; Film"/>
+	<podcast:guid>948f2d3c-ef15-5675-bece-3c2f8dae14d7</podcast:guid>
+	<item>
+		<title>S01E05 &#8211; H-A-L&#8211; HALLOWEEN</title>
+		<link>http://joereddington.github.io/speechful/</link>
+		<pubDate>Fri, 19 Oct 2018 10:32:28 +0000</pubDate>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description>Today we are talking about S01E05 – H-A-L– HALLOWEEN.  We also talk about wheelchair costumes like these.    </description>
+		<content:encoded><![CDATA[<p>Today we are talking about S01E05 &#8211; <strong><a title="H-A-L-- HALLOWEEN" href="https://www.imdb.com/title/tt5952256/?ref_=ttep_ep5">H-A-L&#8211; HALLOWEEN</a>. </strong></p>
+<p>We also talk about wheelchair costumes <a href="https://www.google.co.uk/search?q=wheelchair+costumes&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwigoauDpJLeAhUMM8AKHX6BD3MQ_AUIDigB">like these</a>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+		<enclosure url="http://joereddington.github.io/speechful//episodes/SpeechfulS01E05.mp3" length="36598513" type="audio/mpeg" />
+		<itunes:subtitle>Today we are talking about S01E05 – H-A-L– HALLOWEEN.  We also talk about wheelchair costumes like these.    </itunes:subtitle>
+		<itunes:summary>Today we are talking about S01E05 – H-A-L– HALLOWEEN.  We also talk about wheelchair costumes like these.    </itunes:summary>
+		<itunes:author>Speechful: a Speechless reaction podcast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>25:25</itunes:duration>
+	</item>
+	<item>
+		<title>S01E04 &#8211; I-N-S&#8211;INSPIRATIONS</title>
+		<link>http://joereddington.github.io/speechful/</link>
+		<pubDate>Fri, 12 Oct 2018 13:12:03 +0000</pubDate>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description>Today we are talking about Speechless S01E04 – I-N-S–INSPIRATIONS. Our conversation goes all over the place a bit…</description>
+		<content:encoded><![CDATA[<p>Today we are talking about Speechless S01E04 &#8211; <strong><a title="I-N-S--INSPIRATIONS" href="https://www.imdb.com/title/tt5997308/?ref_=ttep_ep4">I-N-S&#8211;INSPIRATIONS</a></strong>.</p>
+<p>Our conversation goes all over the place a bit&#8230;</p>
+]]></content:encoded>
+		<enclosure url="http://joereddington.github.io/speechful//episodes/SpeechfulS01E04.mp3" length="33994836" type="audio/mpeg" />
+		<itunes:subtitle>Today we are talking about Speechless S01E04 – I-N-S–INSPIRATIONS. Our conversation goes all over the place a bit…</itunes:subtitle>
+		<itunes:summary>Today we are talking about Speechless S01E04 – I-N-S–INSPIRATIONS. Our conversation goes all over the place a bit…</itunes:summary>
+		<itunes:author>Speechful: a Speechless reaction podcast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>23:36</itunes:duration>
+	</item>
+	<item>
+		<title>S01E03 &#8211; B-O-N&#8211;BONFIRE</title>
+		<link>http://joereddington.github.io/speechful/</link>
+		<pubDate>Fri, 05 Oct 2018 13:13:34 +0000</pubDate>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description>Today we are talking about Speechless S01E02:  B-O-N–BONFIRE  During which we spend a lot of time talking about the fact that Joe is going to be a father and complaining about people who run.  Unhelpfully we recorded this a while ago so Joe now has a nine month old baby and has joined a running club… […]</description>
+		<content:encoded><![CDATA[<p>Today we are talking about Speechless S01E02:  <strong><a title="B-O-N--BONFIRE" href="https://www.imdb.com/title/tt5952254/?ref_=ttep_ep3">B-O-N&#8211;BONFIRE</a> </strong></p>
+<p>During which we spend a lot of time talking about the fact that Joe is going to be a father and complaining about people who run.  Unhelpfully we recorded this a while ago so Joe now has a nine month old baby and has joined a running club&#8230;</p>
+<p>We also talk about Disneyland a lot.</p>
+]]></content:encoded>
+		<enclosure url="http://joereddington.github.io/speechful//episodes/SpeechfulS01E03.mp3" length="52791088" type="audio/mpeg" />
+		<itunes:subtitle>Today we are talking about Speechless S01E02:  B-O-N–BONFIRE  During which we spend a lot of time talking about the fact that Joe is going to be a father and complaining about people who run.  Unhelpfully we recorded this a while ago so Joe now has a n...</itunes:subtitle>
+		<itunes:summary>Today we are talking about Speechless S01E02:  B-O-N–BONFIRE  During which we spend a lot of time talking about the fact that Joe is going to be a father and complaining about people who run.  Unhelpfully we recorded this a while ago so Joe now has a nine month old baby and has joined a running club… […]</itunes:summary>
+		<itunes:author>Speechful: a Speechless reaction podcast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>36:39</itunes:duration>
+	</item>
+	<item>
+		<title>S01E02 &#8211; N-E-NEW A-I-AIDE</title>
+		<link>http://joereddington.github.io/speechful/</link>
+		<pubDate>Fri, 28 Sep 2018 15:55:19 +0000</pubDate>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description>Today we are talking about Speechless S01E02: N-E-NEW A-I-AIDE.  We talk about cheerleading, the fact that stealing is wrong, and where the link between aide, friend, and ‘responsible parent’ is.    </description>
+		<content:encoded><![CDATA[<p>Today we are talking about Speechless S01E02: <strong><a title="N-E-NEW A-I-AIDE" href="https://www.imdb.com/title/tt5940396/?ref_=ttep_ep2">N-E-NEW A-I-AIDE</a>. </strong></p>
+<p>We talk about cheerleading, the fact that stealing is wrong, and where the link between aide, friend, and &#8216;responsible parent&#8217; is.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+		<enclosure url="http://joereddington.github.io/speechful//episodes/SpeechfulS01E02.mp3" length="62706125" type="audio/mpeg" />
+		<itunes:subtitle>Today we are talking about Speechless S01E02: N-E-NEW A-I-AIDE.  We talk about cheerleading, the fact that stealing is wrong, and where the link between aide, friend, and ‘responsible parent’ is.    </itunes:subtitle>
+		<itunes:summary>Today we are talking about Speechless S01E02: N-E-NEW A-I-AIDE.  We talk about cheerleading, the fact that stealing is wrong, and where the link between aide, friend, and ‘responsible parent’ is.    </itunes:summary>
+		<itunes:author>Speechful: a Speechless reaction podcast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>43:33</itunes:duration>
+	</item>
+	<item>
+		<title>S01E01: Pilot</title>
+		<link>http://joereddington.github.io/speechful/</link>
+		<pubDate>Tue, 18 Sep 2018 10:12:37 +0000</pubDate>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description>Our first episode! We are talking about: Pilot  </description>
+		<content:encoded><![CDATA[<p>Our first episode!</p>
+<p>We are talking about: <strong><a title="Pilot" href="https://www.imdb.com/title/tt5843160/?ref_=ttep_ep1">Pilot</a></strong></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+		<enclosure url="http://joereddington.github.io/speechful//episodes/SpeechfulS01E01.mp3" length="74654324" type="audio/mpeg" />
+		<itunes:subtitle>Our first episode! We are talking about: Pilot  </itunes:subtitle>
+		<itunes:summary>Our first episode! We are talking about: Pilot  </itunes:summary>
+		<itunes:author>Speechful: a Speechless reaction podcast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>51:50</itunes:duration>
+	</item>
+</channel>
+</rss>
